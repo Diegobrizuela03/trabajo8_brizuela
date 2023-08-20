@@ -1,0 +1,27 @@
+
+body {
+    background-color:lightpink;
+}    
+
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.indice {
+    width: 250px;
+    flex-direction: row;
+}
+
+
+.titulo {
+    margin: 50px;
+    border: 5px;
+    border-style: double;
+    border-color: hotpink;
+    color: hotpink;
+    
+    
+}
+
